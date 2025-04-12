@@ -11,10 +11,7 @@
             Console.WriteLine("yangilik uchun!");
             Console.WriteLine("yangilik uchun!");
             Console.WriteLine("yangilik uchun!");
-            Console.WriteLine("yangilik uchun!");
-            Console.WriteLine("yangilik uchun!");
-            Console.WriteLine("yangilik uchun!");
-            Console.WriteLine("yangilik uchun!");
+            
         }
     }
 }
