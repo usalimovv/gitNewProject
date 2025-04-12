@@ -9,8 +9,7 @@
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
             Console.WriteLine("yangilik uchun!");
-            Console.WriteLine("yangilik uchun!");
-            Console.WriteLine("yangilik uchun!");
+            
             
         }
     }
