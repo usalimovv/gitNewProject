@@ -11,6 +11,12 @@ namespace gitNewProject.Services
         public bool checkPassword()
         {
             return true;
+        }public bool checkPassword2()
+        {
+            return true; 
+        }public bool checkPassword3()
+        {
+            return true; 
         }
     }
 }
